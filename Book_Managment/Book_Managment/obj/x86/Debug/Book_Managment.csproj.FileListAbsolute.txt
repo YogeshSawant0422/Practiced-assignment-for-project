@@ -1,0 +1,34 @@
+D:\Project.C#\Book_Managment\Book_Managment\bin\Debug\Book_Managment.exe
+D:\Project.C#\Book_Managment\Book_Managment\bin\Debug\Book_Managment.pdb
+D:\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.Frm_Login_form.resources
+D:\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.Properties.Resources.resources
+D:\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.exe
+D:\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.pdb
+D:\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.frm_Add_New_Book.resources
+D:\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.dgv_all_book_details.resources
+D:\Project.C#\Book_Managment\Book_Managment\bin\Debug\Book_Managment.exe.config
+E:\Project.C#\Book_Managment\Book_Managment\bin\Debug\Book_Managment.exe.config
+E:\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.exe
+E:\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.pdb
+E:\Project.C#\Book_Managment\Book_Managment\bin\Debug\Book_Managment.exe
+E:\Project.C#\Book_Managment\Book_Managment\bin\Debug\Book_Managment.pdb
+E:\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.frm_Login_form.resources
+E:\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.dgv_all_book_details.resources
+E:\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.frm_Add_New_Book.resources
+E:\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.Properties.Resources.resources
+E:\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.csproj.GenerateResource.Cache
+E:\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.csprojResolveAssemblyReference.cache
+E:\Yogesh Sawant\Project.C#\Book_Managment\Book_Managment\bin\Debug\Book_Managment.exe.config
+E:\Yogesh Sawant\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.exe
+E:\Yogesh Sawant\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.pdb
+E:\Yogesh Sawant\Project.C#\Book_Managment\Book_Managment\bin\Debug\Book_Managment.exe
+E:\Yogesh Sawant\Project.C#\Book_Managment\Book_Managment\bin\Debug\Book_Managment.pdb
+E:\Yogesh Sawant\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.csprojResolveAssemblyReference.cache
+E:\Yogesh Sawant\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.frm_Login_form.resources
+E:\Yogesh Sawant\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.dgv_all_book_details.resources
+E:\Yogesh Sawant\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.frm_Add_New_Book.resources
+E:\Yogesh Sawant\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.Properties.Resources.resources
+E:\Yogesh Sawant\Project.C#\Book_Managment\Book_Managment\obj\x86\Debug\Book_Managment.csproj.GenerateResource.Cache
