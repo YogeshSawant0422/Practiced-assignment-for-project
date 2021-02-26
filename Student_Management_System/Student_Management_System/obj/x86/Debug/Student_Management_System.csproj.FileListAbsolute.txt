@@ -1,0 +1,16 @@
+E:\Yogesh Sawant\Project.C#\Student_Management_System\Student_Management_System\bin\Debug\Student_Management_System.exe
+E:\Yogesh Sawant\Project.C#\Student_Management_System\Student_Management_System\bin\Debug\Student_Management_System.pdb
+E:\Yogesh Sawant\Project.C#\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.Frm_Login.resources
+E:\Yogesh Sawant\Project.C#\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.Properties.Resources.resources
+E:\Yogesh Sawant\Project.C#\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.csproj.GenerateResource.Cache
+E:\Yogesh Sawant\Project.C#\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.exe
+E:\Yogesh Sawant\Project.C#\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.pdb
+E:\Yogesh Sawant\Project.C#\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.csprojResolveAssemblyReference.cache
+E:\Yogesh Sawant\Project.C#\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.Frm_Add_Course.resources
+E:\Yogesh Sawant\Project.C#\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.Frm_Add_New_Student.resources
+E:\Yogesh Sawant\Project.C#\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.Frm_Search_Student.resources
+E:\Yogesh Sawant\Project.C#\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.Frm_Update_Student.resources
+E:\Yogesh Sawant\Project.C#\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.Frm_View_All_Student.resources
+E:\Yogesh Sawant\Project.C#\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.MDI_Student_Information.resources
+E:\Yogesh Sawant\Project.C#\Student_Management_System\Student_Management_System\bin\Debug\Student_Management_System.exe.config
+E:\Yogesh Sawant\Project.C#\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.Frm_Student_Details_By_Course_Dynamic.resources
