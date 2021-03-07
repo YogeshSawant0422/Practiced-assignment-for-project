@@ -1,0 +1,14 @@
+E:\Yogesh Sawant\Project.C#\Employee_Managnent\Employee_Managment\Employee_Managment\bin\Debug\Employee_Managment.exe
+E:\Yogesh Sawant\Project.C#\Employee_Managnent\Employee_Managment\Employee_Managment\bin\Debug\Employee_Managment.pdb
+E:\Yogesh Sawant\Project.C#\Employee_Managnent\Employee_Managment\Employee_Managment\obj\x86\Debug\Employee_Managment.frm_Login.resources
+E:\Yogesh Sawant\Project.C#\Employee_Managnent\Employee_Managment\Employee_Managment\obj\x86\Debug\Employee_Managment.Properties.Resources.resources
+E:\Yogesh Sawant\Project.C#\Employee_Managnent\Employee_Managment\Employee_Managment\obj\x86\Debug\Employee_Managment.csproj.GenerateResource.Cache
+E:\Yogesh Sawant\Project.C#\Employee_Managnent\Employee_Managment\Employee_Managment\obj\x86\Debug\Employee_Managment.exe
+E:\Yogesh Sawant\Project.C#\Employee_Managnent\Employee_Managment\Employee_Managment\obj\x86\Debug\Employee_Managment.pdb
+E:\Yogesh Sawant\Project.C#\Employee_Managnent\Employee_Managment\Employee_Managment\obj\x86\Debug\Employee_Managment.csprojResolveAssemblyReference.cache
+E:\Yogesh Sawant\Project.C#\Employee_Managnent\Employee_Managment\Employee_Managment\obj\x86\Debug\Employee_Managment.frm_Add_Employee.resources
+E:\Yogesh Sawant\Project.C#\Employee_Managnent\Employee_Managment\Employee_Managment\obj\x86\Debug\Employee_Managment.frm_MDI.resources
+E:\Yogesh Sawant\Project.C#\Employee_Managnent\Employee_Managment\Employee_Managment\obj\x86\Debug\Employee_Managment.frm_All_Employee.resources
+E:\Yogesh Sawant\Project.C#\Employee_Managnent\Employee_Managment\Employee_Managment\obj\x86\Debug\Employee_Managment.frm_Search_Employee.resources
+E:\Yogesh Sawant\Project.C#\Employee_Managnent\Employee_Managment\Employee_Managment\bin\Debug\Employee_Managment.exe.config
+E:\Yogesh Sawant\Project.C#\Employee_Managnent\Employee_Managment\Employee_Managment\obj\x86\Debug\Employee_Managment.frm_Update_Employee.resources
