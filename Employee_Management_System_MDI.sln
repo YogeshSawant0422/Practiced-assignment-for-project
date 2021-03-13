@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_Management_System_MDI", "Employee_Management_System_MDI\Employee_Management_System_MDI.csproj", "{3AE7742C-8ED2-484E-B0BB-4DFE514F62CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AE7742C-8ED2-484E-B0BB-4DFE514F62CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE7742C-8ED2-484E-B0BB-4DFE514F62CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE7742C-8ED2-484E-B0BB-4DFE514F62CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE7742C-8ED2-484E-B0BB-4DFE514F62CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
